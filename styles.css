@@ -1,0 +1,26 @@
+button {
+  border-radius: 10px;
+  width: 150px;
+  height: 30px;
+  cursor: pointer;
+  background-color: crimson;
+  color: white;
+}
+
+button:hover {
+ background-color: rgb(177, 18, 50);
+ font-size: 14px;
+}
+
+div {
+  width: 100vw;
+  height: 100vh;
+  display: flex;
+  flex-wrap: wrap;
+}
+
+h2 {
+  color: darkgoldenrod;
+  flex: 1;
+  margin: 20px 20px;
+}
